@@ -1,3 +1,5 @@
+install.packages(c("tidyverse", "sf"))
+
 library(tidyverse)
 library(sf)
 
