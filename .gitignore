@@ -1,0 +1,7 @@
+.Rproj.user/
+.RData
+.Rhistory
+r.Rproj
+*.jpg
+*.png
+.ipynb_checkpoints
